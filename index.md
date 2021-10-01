@@ -3,15 +3,15 @@
 Hi, I'm Sheikh Ezabul(Ezaz). I can design & develop Clean,responsive and elegant websites,fix WordPress issues and errors,design landing pages or any other website. As well as i'm a SEO expert. I can grow up your website.Also a logo designer. I can design logo for your personal use or your company.
 
 To fllow my website please go to this [Page](https://creativezaz.art/)
-Age:21
+
+
+Age:21 <br>
 Residence:Bangladesh
 Freelance:Available
 Address:Helsinki, Finland
 Phone Number+3580468973099
 
 
-
-://github.com/sheikh22-centria/dirst_webpage/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
