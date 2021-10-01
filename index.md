@@ -2,7 +2,7 @@
 
 Hi, I'm Sheikh Ezabul(Ezaz). I can design & develop Clean,responsive and elegant websites,fix WordPress issues and errors,design landing pages or any other website. As well as i'm a SEO expert. I can grow up your website.Also a logo designer. I can design logo for your personal use or your company.
 
-To fllow my website please go to this Page (https://creativezaz.art/)
+To fllow my website please go to this [Page](https://creativezaz.art/)
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
