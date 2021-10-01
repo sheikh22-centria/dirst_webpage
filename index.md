@@ -10,9 +10,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Home
-## About Me
-### Contact Me
+
 
 - Bulleted
 - List
