@@ -1,9 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to Sheikh Ezabul First Website
 
-You can use the [editor on GitHub](https://github.com/sheikh22-centria/dirst_webpage/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Hi, I'm Sheikh Ezabul(Ezaz). I can design & develop Clean,responsive and elegant websites,fix WordPress issues and errors,design landing pages or any other website. As well as i'm a SEO expert. I can grow up your website.Also a logo designer. I can design logo for your personal use or your company.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
+To fllow my website please go to this Page (https://creativezaz.art/)
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
