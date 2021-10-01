@@ -6,9 +6,9 @@ To fllow my website please go to this [Page](https://creativezaz.art/)
 
 
 Age:21 <br>
-Residence:Bangladesh
-Freelance:Available
-Address:Helsinki, Finland
+Residence:Bangladesh <br>
+Freelance:Available <br>
+Address:Helsinki, Finland <br>
 Phone Number+3580468973099
 
 
